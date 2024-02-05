@@ -1,0 +1,30 @@
+﻿Assignment name: Assignment 6
+TCSS 305 C: Programming Practicum, Winter 2023
+
+
+Name: Bao Trinh
+UWNetID: baott05
+
+
+Assignment Overview:
+The purpose of this assignment is to help us practice creating software from scratch using Java Swing. Previous assignments, like RoadRage and Color Adjuster, had us focus on working from the backend towards a GUI, without much practice in creating the GUI itself. This assignment requires us to not only practice making the GUI layout but also to incorporate the backend into it. Essentially, it covers everything we've learned so far about the backend and allows us to experiment with different front-end GUI layouts.
+
+Technical Impression:
+This assignment was really hard because I didn't get much exposure to creating GUI layout; thankfully, this assignment allowed around three weeks for us to work on it, so I was able to learn more about GUI than when I first started. What really helped me was this one full-course GUI YouTube video. I was inspired by that YouTube video to use the flow layout, as there was a part where he demonstrated how different types of layouts work. In the video, it only demonstrated with the numbers 1-10. I wasn't sure if I could "remodel" the numbers or not, so I asked my sister, who is a computer scientist, if I was allowed to do that, and she said yes. She told me that I could actually create a different layout, then add that to the flow layout. Hearing her brief explanation gave me an idea, and I began to work on it. It took quite a long time, but I got it to work. The rest of the assignment was pretty easy; I personally just struggled with the GUI a bit and its action listeners. One other thing that I found challenging was the visibility of my code, such as when a button is not allowed to be pressed, etc. I had to review my code multiple times because I sometimes disabled the wrong button, but it eventually worked out. I forgot to mention, I wanted to do the extra credit, so I had to do some research about that too. Thankfully, the guy from whom I learned GUI also released a video on Java audio, and I learned it pretty well.
+
+Unresolved problems in my submission:
+None
+
+
+Citations and Collaborations:
+https://www.youtube.com/watch?v=Kmgo00avvEw&ab_channel=BroCode
+https://docs.oracle.com/javase/8/docs/api/java/awt/FlowLayout.html
+https://docs.oracle.com/javase/tutorial/sound/playing.html
+https://www.youtube.com/watch?v=SyZQVJiARTQ&ab_channel=BroCode
+Asked my sister a few questions.
+
+Extra Credit Attempted:
+10 point - play appropriate sounds for each roll, user win, and user loss.
+
+Questions:
+None
